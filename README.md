@@ -7,6 +7,7 @@
 Here's some of the slop I've generated.
 
 - 💡 [lazyhue](https://github.com/kluzzebass/lazyhue) — TUI for Philips Hue
+- 📜 [oapi-hue](https://github.com/kluzzebass/oapi-hue) — Hue OpenAPI specs
 - 🏷️ [reflag](https://github.com/kluzzebass/reflag) - A tool that translates
   command-line flags between different CLI tools.
 - 💩 [ai-slop](https://github.com/kluzzebass/ai-slop) — AI-generated SVG badges
