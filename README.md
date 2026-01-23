@@ -21,3 +21,6 @@ Here's some of the slop I've generated.
 - 🌊 [transmissioner](https://github.com/kluzzebass/transmissioner) — A macOS
   menu bar app for managing Transmission BitTorrent daemon, allowing you to
   monitor and control torrents, peers, and server settings via RPC.
+- 🥲 [incel](https://github.com/kluzzebass/incel) — The involuntarily
+  single-celled spreadsheet. A fully-featured spreadsheet app where each sheet
+  contains exactly one cell. Because sometimes, one cell is all you need.
