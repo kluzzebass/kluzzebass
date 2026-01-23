@@ -15,6 +15,9 @@ Here's some of the slop I've generated.
 - 🏷️ [reflag](https://github.com/kluzzebass/reflag) — A CLI utility that
   translates command-line flags between different tools, making it easier to
   switch between similar programs with different flag conventions.
+- 🔮 [gqlt](https://github.com/kluzzebass/gqlt) — A GraphQL CLI tool, MCP
+  server, and Go library. Query APIs from the command line, integrate with AI
+  agents via MCP, or embed in Go applications.
 - 💩 [ai-slop](https://github.com/kluzzebass/ai-slop) — A collection of
   AI-generated SVG badges and graphics for use in README files and
   documentation.
