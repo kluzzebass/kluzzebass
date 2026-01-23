@@ -6,11 +6,11 @@
 
 Here's some of the slop I've generated.
 
-- 💡 [lazyhue](https://github.com/kluzzebass/lazyhue) — Terminal app for controlling Philips Hue lights.
-- 📜 [oapi-hue](https://github.com/kluzzebass/oapi-hue) — OpenAPI specs for the Philips Hue CLIP v2 API.
-- 🏷️ [reflag](https://github.com/kluzzebass/reflag) — Translates CLI flags between tools.
-- 🔮 [gqlt](https://github.com/kluzzebass/gqlt) — GraphQL CLI tool, MCP server, and Go library.
-- 💩 [ai-slop](https://github.com/kluzzebass/ai-slop) — AI-generated SVG badges for READMEs.
-- 🌊 [transmissioner](https://github.com/kluzzebass/transmissioner) — macOS menu bar app for Transmission daemon.
-- 🥲 [incel](https://github.com/kluzzebass/incel) — Single-cell spreadsheet. One cell is all you need.
-- 🤖 [mcpipboy](https://github.com/kluzzebass/mcpipboy) — MCP server for data generation and validation.
+- 💡 [lazyhue](https://github.com/kluzzebass/lazyhue) — Terminal app for controlling Philips Hue lights, including rooms, zones, and individual bulbs.
+- 📜 [oapi-hue](https://github.com/kluzzebass/oapi-hue) — OpenAPI specs for the Philips Hue CLIP v2 API, enabling typed client generation.
+- 🏷️ [reflag](https://github.com/kluzzebass/reflag) — CLI utility that translates command-line flags between similar tools.
+- 🔮 [gqlt](https://github.com/kluzzebass/gqlt) — GraphQL CLI tool, MCP server, and Go library for querying APIs.
+- 💩 [ai-slop](https://github.com/kluzzebass/ai-slop) — AI-generated SVG badges and graphics for READMEs and docs.
+- 🌊 [transmissioner](https://github.com/kluzzebass/transmissioner) — macOS menu bar app for monitoring and controlling Transmission daemon.
+- 🥲 [incel](https://github.com/kluzzebass/incel) — The involuntarily single-celled spreadsheet. One cell is all you need.
+- 🤖 [mcpipboy](https://github.com/kluzzebass/mcpipboy) — MCP server providing data generation and validation tools for AI agents.
