@@ -13,4 +13,5 @@ Here's some of the slop I've generated.
 - 💩 [ai-slop](https://github.com/kluzzebass/ai-slop) — AI-generated SVG badges and graphics for READMEs and docs.
 - 🌊 [transmissioner](https://github.com/kluzzebass/transmissioner) — macOS menu bar app for monitoring and controlling Transmission daemon.
 - 🥲 [incel](https://github.com/kluzzebass/incel) — The involuntarily single-celled spreadsheet. One cell is all you need.
+- 🃏 [incell](https://github.com/kluzzebass/incell) — FreeCell with a twist.
 - 🤖 [mcpipboy](https://github.com/kluzzebass/mcpipboy) — MCP server providing data generation and validation tools for AI agents.
