@@ -15,3 +15,4 @@ Here's some of the slop I've generated.
 - 🥲 [incel](https://github.com/kluzzebass/incel) — The involuntarily single-celled spreadsheet. One cell is all you need.
 - 🃏 [incell](https://github.com/kluzzebass/incell) — FreeCell with a twist.
 - 🤖 [mcpipboy](https://github.com/kluzzebass/mcpipboy) — MCP server providing data generation and validation tools for AI agents.
+- 🤫 [shushtls](https://github.com/kluzzebass/shushtls) — Private CA service, because sometimes you just want your browser to be quiet.
