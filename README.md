@@ -6,6 +6,7 @@
 
 Here's some of the slop I've generated.
 
+- 📊 [gastrolog](https://github.com/kluzzebass/gastrolog) — Log aggregation and search service with chunk-based storage, full-text indexing, and an embedded web UI.
 - 💡 [lazyhue](https://github.com/kluzzebass/lazyhue) — Terminal app for controlling Philips Hue lights, including rooms, zones, and individual bulbs.
 - 📜 [oapi-hue](https://github.com/kluzzebass/oapi-hue) — OpenAPI specs for the Philips Hue CLIP v2 API, enabling typed client generation.
 - 🏷️ [reflag](https://github.com/kluzzebass/reflag) — CLI utility that translates command-line flags between similar tools.
